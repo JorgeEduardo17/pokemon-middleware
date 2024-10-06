@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+
+psycopg2-binary
+sqlalchemy
+pydantic
+
+pytest
+pytest-asyncio
+coverage
+flake8
+
+python-dotenv
+httpx
